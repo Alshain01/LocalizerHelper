@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/LocalizerHelper/v15/sqlite3/storage.ide
+/.vs/LocalizerHelper/v15
+/LocalizerHelper/bin/Debug
+/LocalizerHelper/obj/Debug
+/LocalizerHelper/LocalizerHelper.csproj.user
